@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Adam and I'm currently a Graduate Enginner in Rail Signalling Delivery. Back in 2020 I graduated with a BSc (Hons) Computer Science, but due to coding burnout I decided to take a different career path. Now (after a very long break) I have developed much more as a person and the passion to start coding has sparked in me again!
 
 * 🌍  I'm based in the North West of the UK
-* ✉️  You can contact me at [adam.tommo2@gmail.com](mailto:adam.tommo2@gmail.com)
 * ⚡  Fun fact: Love Rugby League, Lego, and Photography
 
 ### Skills
